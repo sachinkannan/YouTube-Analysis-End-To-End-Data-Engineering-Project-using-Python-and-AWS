@@ -1,4 +1,4 @@
-# YouTube-Analysis-End-To-End-Data-Engineering-Project-using-Python-and-AWS
+# YouTube-Data-Analysis-End-To-End-Data-Engineering-Project-using-Python-and-AWS
 
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
